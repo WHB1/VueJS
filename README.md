@@ -20,3 +20,7 @@ https://curated.vuejs.org/
 
 Vue资源
 https://github.com/vuejs/awesome-vue
+
+
+Vue拖拽控件  
+https://github.com/jaweii/Vue-Layout
