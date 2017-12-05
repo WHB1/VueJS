@@ -24,3 +24,6 @@ https://github.com/vuejs/awesome-vue
 
 Vue拖拽控件  
 https://github.com/jaweii/Vue-Layout
+
+Vue文件上传
+https://github.com/search?utf8=%E2%9C%93&q=vue+file+upload&type=
